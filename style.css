@@ -1,0 +1,36 @@
+section {
+	margin: 0;
+	padding: 100;
+	box-sizing: border-box;
+    background-color: aqua;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem;
+	background-color: #0327f5;
+	color: #333;
+}
+
+nav ul {
+	display: flex;
+}
+
+nav li {
+	margin: 0 1rem;
+}
+
+nav a {
+	color: #333;
+	text-decoration: none;
+}
+
+main {
+	margin: 2rem;
+}
+
+section {
+	margin-bottom: 50
+}
